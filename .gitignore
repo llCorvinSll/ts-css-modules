@@ -112,3 +112,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+
+# project spec
+plugins/dist
